@@ -34,7 +34,7 @@
 
 ​		数据库连接名：root    密码： 123456
 
-​			可在test -> configs -> config.js 修改
+​				可在config -> default.json 修改
 
 ##### 	启动项目
 
