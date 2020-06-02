@@ -1,3 +1,5 @@
+#### node服务端原地址：https://gitee.com/wBekvam/vueShop-api-server
+
 #### 项目整体文件说明
 - `config` 配置文件目录
   - `default.json` 默认配置文件（其中包含数据库配置，jwt配置）
